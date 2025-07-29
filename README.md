@@ -1,0 +1,2 @@
+# MediChain-AI-Medical-Chatbot---GenAI-application-
+The Gen-AI Medical Chatbot is an AI-powered conversational assistant built using LLMs integrated with Langchain, Pinecone, and deployed via Flask and AWS. It is designed to provide context-aware medical information and support to users by retrieving relevant knowledge from medical documents and answering health-related queries in natural language.
