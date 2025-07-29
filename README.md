@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ```bash 
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # run the following command to store embeddings to pinecone
 python store_index.py
